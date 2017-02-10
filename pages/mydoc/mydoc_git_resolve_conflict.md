@@ -11,7 +11,7 @@ folder: mydoc
 # Reslove Conflicts
 Use add to mark files as resolved.
 
-예시는 아래와 같다.
+예시는 아래와 같다!
 
 ```
 git diff [--base]
@@ -34,6 +34,6 @@ gitk --merge
 
 
 
- 예시 화면은 아래와 같다.
+ 예시 화면은 아래와 같다!
 
  ![git](./images/a.JPG)
